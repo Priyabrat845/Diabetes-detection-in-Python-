@@ -1,1 +1,1 @@
-# Diabetes-detection
+# Diabetes-detection-in-Python
